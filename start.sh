@@ -1,1 +1,1 @@
-screen -dmS grand ./GrandManager
+
